@@ -1,5 +1,7 @@
 # EECE5644_IntroMLPR_LectureCode_Summer1
 
+Hello World
+
 Code to complement lectures of the _"EECE 5644: Introduction to Machine Learning and Pattern Recognition"_ course taught at Northeastern University.
 
 Please contact the lecturer **Mark Zolotas** about any questions concering the repository: m.zolotas@northeastern.edu
